@@ -2,7 +2,7 @@
     "manufacturer":"Kavya",
 "keyboard_name":"kghackpad",
 "maintainer": "kg_09_creator",
-  "url": "https://hackclub.com",
+"url": "https://hackclub.com",
 "development_board": "seeeduino_xiao_rp2040",
 "bootloader": "rp2040",
 "features": {
