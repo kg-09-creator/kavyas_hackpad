@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "keyboard": "kghackpad",
+  "keymap": "default",
+  "layout": "LAYOUT_ortho_1x3",
+  "layers": [
+    [
+      "LCTL(KC_C)",
+      "LCTL(KC_V)",
+      "KC_ENT"
+    ]
+  ]
+}
